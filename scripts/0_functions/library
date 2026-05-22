@@ -1,0 +1,18 @@
+library(terra) #terra 1.8.50
+library(pROC)
+library(dplyr)
+library(fields)
+library(sf)
+library(lubridate)
+library(ggplot2)
+library(ggpmisc)
+library(viridis)
+library(ggpointdensity)
+library(maps)
+library(ncdf4)
+library(RANN)
+library(patchwork)
+library(rnaturalearth)
+library(grid)
+library(ggtext)
+
