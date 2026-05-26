@@ -1,4 +1,4 @@
-# Harmonisation Medium Resolution Burned Area Grid product version 6.0.0 (MRBA60)
+# Harmonised Medium Resolution Burned Area product version 6.0.0 (MRBA60)
 
 **Miguel Ángel Torres-Vázquez**  
 miguela.torres@uah.es  
